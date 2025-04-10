@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ElizabethCMedlin/ElizabethCMedlin/assets/133186301/3956a6bb-7938-4790-bb1f-7747aa095708" width="100%" alt="Banner">
+  <img src="https://github.com/ElizabethCMedlin/ElizabethCMedlin/blob/main/travel%20banner%202.png.PNG" width="80%" alt="Banner">
 </div>
 
 <h3>ABOUT ME</h3>
