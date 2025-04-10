@@ -22,6 +22,6 @@
 <p align="center">
   Take a look at my resume and let's get in touch!
 <p align="center">
-https://github.com/ElizabethCMedlin/ElizabethCMedlin/files/11454104/Elizabeth.C.Medlin.Resume.pdf
+https://github.com/ElizabethCMedlin/ElizabethCMedlin/blob/main/Elizabeth%20C%20Medlin%20Resume.pdf
 
 
