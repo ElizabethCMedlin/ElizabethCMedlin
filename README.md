@@ -17,7 +17,7 @@
 
 <br/>
 <p align="center">
-  Take a look at my [resume](https://github.com/ElizabethCMedlin/ElizabethCMedlin/blob/main/Elizabeth%20C%20Medlin%20Resume.pdf) and let's get in touch!
+  Take a look at my [resume](blob/main/Elizabeth%20C%20Medlin%20Resume.pdf) and let's get in touch!
 
 
 
